@@ -1,16 +1,18 @@
 # GPT-browsing-plugin
-*A browsing plugin for Huggingface based chat LLM models.*
+*A browsing plugin for Huggingface based chat LLM models* 🤗 🌐 🤖
 
 <a href="https://colab.research.google.com/github/tahmidefaz/GPT-browsing-plugin/blob/main/notebooks/GPT_browsing_plugin_v1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-To use, click on the "Open in Colab" button above.
-A copy is also provided under the `notebooks` directory.
+👆📲 To use, click on the "Open in Colab" button above.
 
-I am Loading the smallest open-sourced [Dolly 2.0 model (3B)](https://huggingface.co/databricks/dolly-v2-3b) by default.
-I found it very capable with the browsing plugin.
-I was not able to try out other similar models because of GPU memory restrictions, but all Huggingface transformers compatible Chat LLM models should work.
+📂 Check out the `notebooks` directory for another copy.
 
-There is a field in the notebook to set a model of your choice.
+🤖 Using the smallest open-sourced [Dolly 2.0 model (3B)](https://huggingface.co/databricks/dolly-v2-3b) by default. I found it very capable with the browsing plugin.
+
+🙅‍♀️ I was not able to try out other similar models because of GPU restrictions, but all Huggingface transformers compatible Chat LLM models should work. 😎
+
+💻 There is a field in the notebook to set a model of your choice.
+
 
 ## Browsing Parameters Explanation
 `search_topic` - The search topic. This is different from the user questions. This can be things like "Trappist-1 planets", "SVB collapse" etc.
@@ -31,8 +33,8 @@ There is a field in the notebook to set a model of your choice.
 
 ## Screenshots
 
-*Screenshot of the crawler in action*
+🤌 *Screenshot of the crawler in action*
 ![screenshot of crawling in action](screenshots/screenshot-1.png)
 
-*Screenshot of some outputs*
+🤌 *Screenshot of some outputs*
 ![screenshot of some outputs](screenshots/screenshot-2.png)
