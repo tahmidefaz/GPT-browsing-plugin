@@ -1,7 +1,10 @@
-# GPT-browsing-plugin
-*A browsing plugin for Huggingface based chat LLM models* 🤗 🌐 🤖
+# 🌐 🤖 GPT-browsing-plugin
 
-<a href="https://colab.research.google.com/github/tahmidefaz/GPT-browsing-plugin/blob/main/notebooks/GPT_browsing_plugin_v1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+*A browsing plugin for Huggingface based chat LLM models* 🤗
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tahmidefaz/GPT-browsing-plugin/blob/main/notebooks/GPT_browsing_plugin_v1.ipynb)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tahmidefaz.GPT-browsing-plugin)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/tahmidefaz/GPT-browsing-plugin/blob/main/LICENSE)
 
 👆📲 To use, click on the "Open in Colab" button above.
 
